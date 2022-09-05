@@ -1,6 +1,5 @@
 ## Ooi!! eu sou a Emilly Soler
 
-- 👋 Oi meu nome é **@EmillySoler**
 - 👀 Estou interessada em aprender a programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente...
 <div>
