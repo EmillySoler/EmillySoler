@@ -13,3 +13,6 @@
 EmillySoler/EmillySoler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif)
+
